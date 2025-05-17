@@ -1,16 +1,14 @@
 # Book-recommendation-system
-OVERVIEW 
+OVERVIEW
+
 Welcome to my project "Book Recommender System." This project is about building a system that suggests books to users based on what they like and their reading habits. Using machine learning and book data, the goal is to create a personalized way to recommend books.
 
-Table of Contents
-Introduction
-There are many books out there, and readers often want suggestions that fit their interests. This project aims to build a system that looks at what users like, their past reading, and book details to give them book recommendations made just for them.
-
 Dataset
+
 The data includes information about books, users, and how users interact with books. It has details like book titles, genres, user ratings, and which books users have read or rated. This data helps build the recommendation system.
 
 Project Goals
-The main goals of this project are:
+
 
 Prepare and clean the data for building the recommendation system.
 
